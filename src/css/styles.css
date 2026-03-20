@@ -51,6 +51,16 @@
   transform: scale(1.03);
 }
 
+.sl-overlay {
+  background-color: #2e2f42 !important;
+  opacity: 0.8;
+}
+
+.sl-wrapper .sl-close,
+.sl-wrapper .sl-navigation button {
+  color: #fff !important;
+}
+
 .feedback-form {
   display: flex;
   flex-direction: column;
